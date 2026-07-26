@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data Files
+data/*.csv
+!data/.gitkeep
+
+# Testing
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Temporary Files
+*.tmp
+*.temp
